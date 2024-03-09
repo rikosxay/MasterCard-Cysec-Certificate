@@ -3,10 +3,11 @@
 <h2>Description</h2>
 In this project I completed a series of tasks meant to replicate the day to day activities of a Cybersecurity Analyst at Mastercard. I was able to do this through Forage's job simulation platform.
 <br />Here is a brief of the tasks I was able to perform:<br />
-* Completed a job simulation where I served as an analyst on Mastercard’s
+
+- Completed a job simulation where I served as an analyst on Mastercard’s
   Security Awareness Team <br />
-* Helped identify and report security threats such as phishing <br />
-* Analyzed and identified which areas of the business needed more robust
+- Helped identify and report security threats such as phishing <br />
+- Analyzed and identified which areas of the business needed more robust
   security training and implemented training courses and procedures for those
   teams
 <br />
